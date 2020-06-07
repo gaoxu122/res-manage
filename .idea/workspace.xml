@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b69d4ee0-30f7-435b-b996-8607ec0e37c6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/api/sys/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/mail/mail.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/common/Sidebar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/Sidebar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/common/TreeTable/eval.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/sys/dept.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/common/TreeTable/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/sys/Department.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/sys/Department.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/sys/User.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/sys/User.vue" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1SEpu6Ln3bh6qbca7aEJ8VnnaAI" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="E:\jfb\vue-manage-system\node_modules\prettier" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\jfb\vue-manage-system\src\components\common\TreeTable" />
+      <recent name="E:\jfb\vue-manage-system\src\components\page" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b69d4ee0-30f7-435b-b996-8607ec0e37c6" name="Default Changelist" comment="" />
+      <created>1562663566201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562663566201</updated>
+      <workItem from="1562663568280" duration="4613000" />
+      <workItem from="1562749610708" duration="15915000" />
+      <workItem from="1562809470635" duration="8501000" />
+      <workItem from="1562898568261" duration="26846000" />
+      <workItem from="1563191207748" duration="6985000" />
+      <workItem from="1564060139785" duration="2023000" />
+      <workItem from="1564128961590" duration="7782000" />
+      <workItem from="1568627847725" duration="832000" />
+      <workItem from="1571138830221" duration="1281000" />
+      <workItem from="1571313407533" duration="6845000" />
+      <workItem from="1571739482380" duration="293000" />
+      <workItem from="1571900518020" duration="4247000" />
+      <workItem from="1571992946272" duration="694000" />
+      <workItem from="1572234486016" duration="5572000" />
+      <workItem from="1572257692900" duration="5581000" />
+      <workItem from="1572324596464" duration="4360000" />
+      <workItem from="1572345346371" duration="497000" />
+      <workItem from="1572575348378" duration="1535000" />
+      <workItem from="1572604591854" duration="685000" />
+      <workItem from="1573102442385" duration="3449000" />
+      <workItem from="1574676394770" duration="1463000" />
+      <workItem from="1574763438621" duration="902000" />
+      <workItem from="1574847930407" duration="727000" />
+      <workItem from="1575881111755" duration="3999000" />
+      <workItem from="1576485965584" duration="7000" />
+      <workItem from="1576486097849" duration="6000" />
+      <workItem from="1576486249453" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
